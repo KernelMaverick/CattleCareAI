@@ -1,5 +1,3 @@
-# CattleCareAI
-
 # **CattleCareAI**  
 AI & NLP-based Disease Detection System for Dairy Cattle
 
